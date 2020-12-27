@@ -5,9 +5,9 @@ One of the main issues with electricity markets is predicting renewable energy l
 
 Results shown below, using squared mean error as the method of comparison.
 
-* **Multiple Linear Regression: 9.51**
+* **New Predicition Error: 9.51**
 
-* **Electric Company Error: 13.44**
+* **TSO Prediction Error: 13.44**
 
 The results show that a simple multiple linear regression using the predictions from the Spanish TSO, and forecasted load data greatly improved the predictions of electricity prices in Spain.
 
@@ -25,10 +25,10 @@ The TSO predictions consistently underestimate the electricity prices, with 89% 
 A multiple linear regression with an 80%-20% data split for training and testing the algorithm. Below are the dependent variables that will be used to predict electricity price.
 
 ## Forecast Solar Day Ahead
-Forecast Wind Onshore Day Ahead
-Total Load Forecast
-Hour of Day
-Price Day Ahead (TSO Prediction)
+* **Forecast Wind Onshore Day Ahead**
+* **Total Load Forecast**
+* **Hour of Day**
+* **Price Day Ahead (TSO Prediction)**
 The TSO predicted price will be used because it may be advantageuous to use their predictions, since the profile of their predicted prices resembles the actual price.
 
 # Results
