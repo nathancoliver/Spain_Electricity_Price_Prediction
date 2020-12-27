@@ -5,9 +5,9 @@ One of the main issues with electricity markets is predicting renewable energy l
 
 Results shown below, using squared mean error as the method of comparison.
 
-**Multiple Linear Regression: 9.51**
+* **Multiple Linear Regression: 9.51**
 
-**Electric Company Error: 13.44**
+* **Electric Company Error: 13.44**
 
 The results show that a simple multiple linear regression using the predictions from the Spanish TSO, and forecasted load data greatly improved the predictions of electricity prices in Spain.
 
