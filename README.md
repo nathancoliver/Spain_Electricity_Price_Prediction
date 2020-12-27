@@ -35,11 +35,11 @@ The TSO predicted price will be used because it may be advantageuous to use thei
 A multiple linear regression model was implemented, and a score of 54.6% was achieved. This seems quite low, but when compared to the TSO predictions, was a significant improvement over their predictions. The median difference between this method's predictions and the actual price hovered around zero, whereas the median TSO predctions were around €7 below the actual prices.
 
 The multiple linear regression resulted in a lower mean absolute error of, with the results shown below.
-
-* **Multiple Linear Regression: 9.51**
-* **Electric Company Error: 13.44**
+* **New Predicition Error: 9.51**
+* **TSO Prediction Error: 13.44**
 
 The predicted electricity price profiles from this report and the TSO are compared along with the actual prices. This paper's predictions are more in line with the actual prices, and the price differences show that add to the fact that a simple multiple linear regression improved the predictions of the Spanish TSO.
+
 ![image 1](/png/image7.png)
 ![image 1](/png/image8.png)
 
