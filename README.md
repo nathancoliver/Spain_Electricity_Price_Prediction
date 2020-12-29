@@ -23,7 +23,7 @@ The TSO predictions consistently underestimate the electricity prices, with 89% 
 # Method
 A multiple linear regression with an 80%-20% data split for training and testing the algorithm. Below are the dependent variables that will be used to predict electricity price.
 
-# Forecast Solar Day Ahead
+* **Forecast Solar Day Ahead**
 * **Forecast Wind Onshore Day Ahead**
 * **Total Load Forecast**
 * **Hour of Day**
