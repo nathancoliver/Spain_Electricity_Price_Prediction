@@ -1,4 +1,4 @@
-# Improvement on Spain Electricity Price Prediction Using Multivariate Linear Regression
+# Improvement on Spain Electricity Price Prediction Using Multivariate Linear Regression (Do Not View In Dark Mode)
 
 # Abstract
 One of the main issues with electricity markets is predicting renewable energy loads for generators and prices for customers. Due to the advent of machine learning, energy forecasting techniques have improved significantly, but is also in dire need of wide-spread implementation. Forecasted load and price data, as well as actual price data from a four year period between 2015 and 2018 was gathered by fellow Kaggle user Nicholas Jhana, which was collected from ENTSOE (European Network of Transmission System Operators for Electricity) and the Spanish TSO Red Electric España. The goal of this project is to improve upon the day-ahead electicity pricing using multiple linear regression.
